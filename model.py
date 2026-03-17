@@ -4,7 +4,7 @@ import torch.nn.functional as F
 from functools import partial
 import math
 
-
+import numpy as np
 # @ KANBlock
 class KANLayer(nn.Module):
     def __init__(
