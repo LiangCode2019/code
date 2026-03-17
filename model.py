@@ -3,7 +3,7 @@ import torch.nn as nn
 import torch.nn.functional as F
 from functools import partial
 import math
-
+# 66666
 import numpy as np
 # @ KANBlock
 class KANLayer(nn.Module):
